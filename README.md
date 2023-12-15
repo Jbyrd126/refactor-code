@@ -9,5 +9,5 @@
 ![Homework Website](assets/images/code-refactor.png)
 
 <div align="center">
-<a href="https://jbyrd126.github.io/refactor-code/">Refactor Code Challenge</a>
+<a href="https://jbyrd126.github.io/refactor-code/" style=color: black; text-decoration: none;>Refactor Code Challenge</a>
 </div>
