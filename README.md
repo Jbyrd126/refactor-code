@@ -4,7 +4,7 @@
 
 - Cleaned up the style.css sheet by grouping like stylings together and consolidating tags.
 
-<div align="center" > :skull_and_crossbones: "Screenshot" :skull_and_crossbones:</div>
+<div align="center" >  🍺 Screenshot 🍺 </div>
 
 ![Homework Website](assets/images/code-refactor.png)
 
