@@ -4,8 +4,10 @@
 
 - Cleaned up the style.css sheet by grouping like stylings together and consolidating tags.
 
+<div align="center" /2766> Screenshot </div>
+
 ![Homework Website](assets/images/code-refactor.png)
 
 <div align="center">
-<a href="https://jbyrd126.github.io/refactor-code/">link text</a>
+<a href="https://jbyrd126.github.io/refactor-code/">Refactor Code Challenge</a>
 </div>
